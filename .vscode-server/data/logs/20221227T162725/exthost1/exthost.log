@@ -1,0 +1,16 @@
+2022-12-27 16:27:27.962 [info] Extension host with pid 1313 started
+2022-12-27 16:27:27.965 [error] Error: EEXIST: file already exists, open '/home/chernyshov_aa1/.vscode-server/data/User/workspaceStorage/292d239093a090e4ac94ab8062d6c2af/vscode.lock'
+2022-12-27 16:27:27.971 [info] Lock '/home/chernyshov_aa1/.vscode-server/data/User/workspaceStorage/292d239093a090e4ac94ab8062d6c2af/vscode.lock': Could not acquire lock, checking if the file is stale.
+2022-12-27 16:27:27.985 [info] Lock '/home/chernyshov_aa1/.vscode-server/data/User/workspaceStorage/292d239093a090e4ac94ab8062d6c2af/vscode.lock': The pid 15295 appears to be gone.
+2022-12-27 16:27:27.986 [info] Lock '/home/chernyshov_aa1/.vscode-server/data/User/workspaceStorage/292d239093a090e4ac94ab8062d6c2af/vscode.lock': Deleting a stale lock.
+2022-12-27 16:27:28.003 [info] Lock '/home/chernyshov_aa1/.vscode-server/data/User/workspaceStorage/292d239093a090e4ac94ab8062d6c2af/vscode.lock': Lock acquired.
+2022-12-27 16:27:28.066 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2022-12-27 16:27:28.348 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2022-12-27 16:27:28.349 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2022-12-27 16:27:29.282 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2022-12-27 16:27:29.283 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+2022-12-27 16:27:29.284 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2022-12-27 16:27:29.286 [info] Eager extensions activated
+2022-12-27 16:33:37.324 [info] ExtensionService#_doActivateExtension ms-azuretools.vscode-docker, startup: false, activationEvent: 'onLanguage:dockercompose'
+2022-12-27 16:42:09.523 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:properties'
+2022-12-27 16:53:19.298 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:ignore'
